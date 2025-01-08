@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+    
+}
+
+.evensmall{
+    color: blue;
+    font-size: 24px;
+    
+}
+
+.oddsmall{
+    font-size: 24px;
+}
+
+.evenlarge{
+    background-color: rgb(37, 240, 37);
+    font-size: 24px;
+    font-weight: bold;
+}
